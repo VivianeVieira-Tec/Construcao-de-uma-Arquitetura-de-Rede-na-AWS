@@ -11,7 +11,7 @@ Durante o laboratório foram aplicados conceitos fundamentais de redes em nuvem,
 
 ---
 
-## 🏗️ Arquitetura Implementada
+## Arquitetura Implementada
 
 Internet → Internet Gateway → VPC
 
@@ -63,7 +63,7 @@ Internet → Internet Gateway → VPC
 
 ---
 
-## 📊 Resultado Obtido
+## Resultado Obtido
 
 A infraestrutura foi provisionada com sucesso, permitindo:
 
@@ -75,7 +75,7 @@ A infraestrutura foi provisionada com sucesso, permitindo:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Viviane Vieira**
 
