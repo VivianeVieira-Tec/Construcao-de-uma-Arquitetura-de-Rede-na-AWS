@@ -82,3 +82,21 @@ A infraestrutura foi provisionada com sucesso, permitindo:
 🔗 LinkedIn: www.linkedin.com/in/viviane-vieira-de-souza
 
 
+<p align="center">
+  <img src="images/Diagrama do Cliente.png" width="900">
+</p>
+
+
+<p align="center">
+  <img src="images/Criando VPC.png" width="900">
+</p>
+
+
+<p align="center">
+  <img src="images/Dados da rede.png" width="900">
+</p>
+
+
+<p align="center">
+  <img src="images/Página.png" width="900">
+</p>
